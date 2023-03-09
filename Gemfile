@@ -9,4 +9,4 @@ group :production do
   gem "puma"
 end
 
-ruby "3.1.3"
+ruby "2.6.3"
